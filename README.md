@@ -4,8 +4,8 @@
 ---
 
 - 🔭 I’m currently working on **ERP systems, Garage Management, E-commerce projects and many other exciting projects.**
-- 🌱 I’m learning **Django Channels, AI, and React**
-- 👯 I’m open to collaboration on **real-world Python/Django projects**
+- 🌱 I’m learning **REACT.JS and NEXT.JS**
+- 👯 I’m open to collaboration on **real-world full-stack projects**
 - 🧠 I’m sharpening my knowledge of **system design and API integration**
 - 💬 Ask me about **Python, Django, DRF, JavaScript, or API development**
 - 📫 How to reach me: **hossainjoshef@gmail.com**
